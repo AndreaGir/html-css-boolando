@@ -20,7 +20,6 @@
     background-color: wheat;
     position: relative;
     display: inline-block;
-    
 }
 .sconto{
     width: 40px;
@@ -58,6 +57,7 @@
 }
 .fit{
     font-size: 15px;
+    font-weight: bold;
 }
 .soldi{
     font-size: 12px;
@@ -77,12 +77,41 @@
     height: 400px;
     background-color: wheat;
     position: relative;
-    
-    
 }
 .tutto{
     position: relative;
     display: inline-block;
-    
+    margin-left: 10px;
+}
 
+/* carta3 */
+
+/* carta4 */
+.tutto2{
+    position: relative;
+    margin-top: 50px;
+    display: inline-block;
+}
+
+/* carta5 */
+.tutto3{
+    margin-left: 10px;
+    display: inline-block;
+    margin-top: 50px;
+}
+.card2{
+    width: 300px;
+    height: 400px;
+    background-color: wheat;
+}
+
+.todos{
+    display: block;
+    height: 600px;
+}
+
+.tutto5{
+    position: absolute;
+    right: 749px;
+    top: 512px
 }
