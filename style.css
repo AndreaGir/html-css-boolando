@@ -1,0 +1,90 @@
+.container{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 1px solid black;
+    max-width: 1500px;
+    height: 2000px;
+}
+
+/* carta1 */
+ .carta1{
+    width: 642px;
+    height: 1100px;
+} 
+.sopra{
+    position: absolute;
+    display: block;
+}
+.posizione{
+    display: block;
+    width: 642px;
+    height: 924px;
+}
+.sopra1:hover{
+    display: none;
+    
+}
+.primaimm{
+    position: absolute;
+    display: block;
+}
+.scritte{
+    display: inline-block;
+}
+#inline{
+    display: inline-block;
+    padding-bottom: 20px;
+    font-size: 30px;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: red;
+}
+#inline2{
+    display: inline-block;
+    padding-bottom: 20px;
+    font-size: 30px;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-decoration: line-through;
+}
+#descrizione{
+    margin-bottom: 0;
+    font-size: 30px;
+}
+#descrizione2{
+    margin: 0;
+}
+.sconto{
+    width: 70px;
+    height: 40px;
+    position: absolute;
+    font-size: 30px;
+    background-color: red;
+    color: white;
+    bottom: 350px;
+    line-height: 40px;
+}
+.sost{
+    width: 160px;
+    height: 40px;
+    position: absolute;
+    font-size: 30px;
+    background-color: green;
+    color: white;
+    bottom: 350px;
+    left: 95px;
+    text-align: center;
+    line-height: 40px;
+}
+.cuore{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 611px;
+    top: 60px;
+    background-color: white;
+    font-size: 40px;
+    line-height: 40px;
+    text-align: center;
+}
