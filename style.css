@@ -2,15 +2,16 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    border: 1px solid black;
-    max-width: 1500px;
+    max-width: 2000px;
     height: 2000px;
+    margin: 0 auto;
 }
 
 /* carta1 */
  .carta1{
     width: 642px;
     height: 1100px;
+    display: inline-block;
 } 
 .sopra{
     position: absolute;
@@ -22,8 +23,7 @@
     height: 924px;
 }
 .sopra1:hover{
-    display: none;
-    
+    display: none;   
 }
 .primaimm{
     position: absolute;
@@ -73,7 +73,7 @@
     background-color: green;
     color: white;
     bottom: 350px;
-    left: 95px;
+    left: 435px;
     text-align: center;
     line-height: 40px;
 }
@@ -81,10 +81,165 @@
     width: 40px;
     height: 40px;
     position: absolute;
-    left: 611px;
+    left: 949px;
     top: 60px;
     background-color: white;
     font-size: 40px;
     line-height: 40px;
     text-align: center;
 }
+
+/* carta2 */
+
+.carta2{
+    width: 642px;
+    height: 1100px;
+    display: inline-block;
+    margin-left: 20px;
+} 
+.cuore2{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 1617px;
+    top: 60px;
+    background-color: white;
+    font-size: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+.posizione2{
+    display: block;
+    width: 642px;
+    height: 924px;
+}
+.sopra2:hover{
+    display: none;   
+}
+.primaimm2{
+    position: absolute;
+    display: block;
+}
+.sopra2{
+    position: absolute;
+    display: block;
+}
+
+/* carta3 */
+
+.primaimm3{
+    position: absolute;
+    display: block;
+    width: 642px;
+}
+.sopra2{
+    position: absolute;
+    display: block;
+    width: 642px;
+}
+.cuore3{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 2283px;
+    top: 60px;
+    background-color: white;
+    font-size: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+
+/* carta4 */
+.carta4{
+    width: 642px;
+    height: 1100px;
+    display: inline-block;
+    margin: 0;
+} 
+.sconto4{
+    width: 70px;
+    height: 40px;
+    position: absolute;
+    font-size: 30px;
+    background-color: red;
+    color: white;
+    bottom: -750px;
+    line-height: 40px;
+}
+.sost4{
+    width: 160px;
+    height: 40px;
+    position: absolute;
+    font-size: 30px;
+    background-color: green;
+    color: white;
+    bottom: -750px;
+    left: 435px;
+    text-align: center;
+    line-height: 40px;
+}
+.cuore4{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 952px;
+    top: 1156px;
+    background-color: white;
+    font-size: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+
+
+/* carta5 */
+.carta5{
+    width: 642px;
+    height: 1100px;
+    display: inline-block;
+    margin-left: 20px;
+} 
+.cuore5{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 1617px;
+    top: 1156px;
+    background-color: white;
+    font-size: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+
+/* cuore6 */
+
+.carta6{
+    width: 642px;
+    height: 1100px;
+    display: inline-block;
+    margin-left: 20px;
+} 
+.cuore6{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 2284px;
+    top: 1156px;
+    background-color: white;
+    font-size: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+.sost6{
+    width: 160px;
+    height: 40px;
+    position: absolute;
+    font-size: 30px;
+    background-color: green;
+    color: white;
+    bottom: -749px;
+    left: 1683px;
+    text-align: center;
+    line-height: 40px;
+}
+
+
